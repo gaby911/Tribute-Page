@@ -1,0 +1,52 @@
+html{
+    background-color:#e9e9e9;
+    font-family: 'Mukta Vaani';
+}
+
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  #img-div {
+    width: 800px;
+    margin: auto;
+  }
+
+  #main{
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    background-color: white;
+  }
+  #main { -webkit-box-shadow: rgba(0,0,0,0.35) 0 1px 3px; -moz-box-shadow: rgba(0,0,0,0.35) 0 1px 3px; box-shadow: rgba(0,0,0,0.35) 0 1px 3px; }
+
+  h1{
+    padding-top: 1.5em;
+  }
+
+  ul {
+    max-width: 650px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+  display: list-item;
+  text-align: left;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  
+  line-height: 1.8;
+  
+  color: #333;
+}
